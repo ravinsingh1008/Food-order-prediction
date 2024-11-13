@@ -1,4 +1,26 @@
 # Predict-Food-Delivery-Time
+Food order prediction 
+This food order prediction project aims to predict customers’ food orders based on their preferences, location, past orders, time of the day, etc. Learners will build a classification model using supervised learning techniques and Python libraries to make predictions. 
+
+Learning outcomes: 
+Understanding of Machine Learning work process: Get to know how machine learning works in the real world 
+Data processing: Learn to clean, transform, and prepare data for training, along with handling missing values and encoding categorical variables 
+Exploratory Data Analysis (EDA): Understand data visualization, learn the relationships between features, and gain insights on how to select the appropriate machine learning algorithm 
+Model selection: Experiment with multiple supervised learning algorithms, evaluating their performance and optimizing their accuracy 
+Model evaluation: Knowledge of assessing the performance of the classification model using multiple evaluation metrics 
+
+What it takes to execute this project:
+Collect the required dataset containing customer food order information like types of food ordered, time of order, location, etc 
+Use Python libraries like Pandas and NumPy to prepare your data, identify patterns, and clean inconsistencies
+Split the data into parts, one for training and the other for testing 
+Train your model on the training data, allowing it to learn different patterns that influence customers’ food choices
+Test the model to check for its performance and accuracy 
+
+Real world applications: 
+Restaurants can use it to forecast customer orders and keep their stock filled, have proper staff, and be ready for the food preparation process
+Food delivery apps can use this to provide personalized food recommendations to customers based on their search or past orders
+Food producers and distributors can use the model to predict food habit changes or demands and plan for better production and distribution strategy 
+Marketers can use it to develop targeted marketing campaigns, offering personalized promotions based on customer preferences 
 
 The entire world is transforming digitally and our relationship with technology has grown exponentially over the last few years. We have grown closer to technology, and it has made our life a lot easier by saving time and effort. Today everything is accessible with smartphones — from groceries to cooked food and from medicines to doctors. In this hackathon, we provide you with data that is a by-product as well as a thriving proof of this growing relationship. 
 
